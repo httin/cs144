@@ -133,6 +133,7 @@ eth2    HWaddr02:4c:0c:94:8b:9f
 eth1    HWaddr2a:20:2f:d2:91:15
     inet addr 10.0.1.1
  -- Ready to process packets --
+```
 Now, test whether ```ping``` works.
 ```
 ping <SERVER1_IP> (184.72.104.217)
